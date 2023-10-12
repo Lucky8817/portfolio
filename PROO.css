@@ -1,0 +1,53 @@
+#pro{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    margin-left: 380px;
+    border-radius: 50%;
+    background-image: url(pro\ pho.jpg);
+    background-size: cover;
+    
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    margin-left:80px ;
+}
+ul{
+    margin-left:400px ;
+}
+ol{
+    margin-left:420px ;
+} 
+
+#div2{
+    width: 100px;
+    height: 20px;
+    border-radius: 20px;
+    margin-left:400px ;
+    
+}
+#div3{
+    width: 90px;
+    height: 20px;
+    border-radius: 20px;
+    margin-left:400px ;
+}
+#div4{
+    width: 80px;
+    height: 20px;
+    border-radius: 20px;
+    margin-left:400px ;
+}
+#div5{
+    width: 60px;
+    height: 20px;
+    border-radius: 20px;
+    margin-left:400px ;
+}
+
